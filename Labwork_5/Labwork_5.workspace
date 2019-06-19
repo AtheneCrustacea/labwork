@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Labwork_5" Database="" Version="10.0.0">
+  <Project Name="OutputInt" Path="OutputInt/OutputInt.project" Active="Yes"/>
+  <Project Name="Table" Path="Table/Table.project" Active="No"/>
+  <Project Name="FileFloat" Path="FileFloat/FileFloat.project" Active="No"/>
+  <Project Name="FileToFile" Path="FileToFile/FileToFile.project" Active="No"/>
+  <Project Name="BinFile" Path="BinFile/BinFile.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="OutputInt" ConfigName="Debug"/>
+      <Project Name="Table" ConfigName="Debug"/>
+      <Project Name="FileFloat" ConfigName="Debug"/>
+      <Project Name="FileToFile" ConfigName="Debug"/>
+      <Project Name="BinFile" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="OutputInt" ConfigName="Release"/>
+      <Project Name="Table" ConfigName="Release"/>
+      <Project Name="FileFloat" ConfigName="Release"/>
+      <Project Name="FileToFile" ConfigName="Release"/>
+      <Project Name="BinFile" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
