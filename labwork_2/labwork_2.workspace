@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="labwork_2" Database="" Version="10.0.0">
+  <Project Name="search" Path="search/search.project" Active="No"/>
+  <Project Name="sum" Path="sum/sum.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="search" ConfigName="Debug"/>
+      <Project Name="sum" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="search" ConfigName="Release"/>
+      <Project Name="sum" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
