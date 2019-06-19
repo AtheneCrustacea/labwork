@@ -1,0 +1,10 @@
+-ID:\Programs\TDM-GCC\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++
+-ID:\Programs\TDM-GCC\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\x86_64-w64-mingw32
+-ID:\Programs\TDM-GCC\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\backward
+-ID:\Programs\TDM-GCC\lib\gcc\x86_64-w64-mingw32\5.1.0\include
+-ID:\Programs\TDM-GCC\include
+-ID:\Programs\TDM-GCC\lib\gcc\x86_64-w64-mingw32\5.1.0\include-fixed
+-ID:\Programs\TDM-GCC\x86_64-w64-mingw32\include
+-ID:\CodeLabwork_3\Caesar
+-target
+x86_64-pc-windows-gnu

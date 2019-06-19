@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CodeLabwork_3" Database="" Version="10.0.0">
+  <Project Name="camel" Path="camelNew/camelNew.project" Active="No"/>
+  <Project Name="replace" Path="replaceNew/replaceNew.project" Active="Yes"/>
+  <Project Name="counter" Path="counter/counter.project" Active="No"/>
+  <Project Name="Caesar" Path="Caesar/Caesar.project" Active="No"/>
+  <Project Name="CaesarFinal" Path="CaesarFinal/CaesarFinal.project" Active="No"/>
+  <Project Name="project" Path="project/project.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="camel" ConfigName="Debug"/>
+      <Project Name="replace" ConfigName="Debug"/>
+      <Project Name="counter" ConfigName="Debug"/>
+      <Project Name="Caesar" ConfigName="Debug"/>
+      <Project Name="CaesarFinal" ConfigName="Debug"/>
+      <Project Name="project" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="camel" ConfigName="Release"/>
+      <Project Name="replace" ConfigName="Release"/>
+      <Project Name="counter" ConfigName="Release"/>
+      <Project Name="Caesar" ConfigName="Release"/>
+      <Project Name="CaesarFinal" ConfigName="Release"/>
+      <Project Name="project" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
